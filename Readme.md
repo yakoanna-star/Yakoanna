@@ -1,7 +1,7 @@
 # Привет! 
 Меня зовут Анна Яковлева. 
 
-https://drive.google.com/file/d/1DgCeS32X9J78bbaJQWZq3I4RDslbfb_d/view?usp=drive_link 
+![ foto from Dmitrov](1758387609.jpg)
 
 Решила освоить профессию тестировщика в Нетологии. Предполагаю окончить обучение и получить диплом уже следующей осенью.  
 
